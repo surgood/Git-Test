@@ -33,7 +33,7 @@ public class FirstCalculator extends JFrame {
 		bpm = new JButton("±");
 		t0 = new JTextField(10);
 		l0 = new JLabel("");
-		l1 = new JLabel("Beta ver.1.0");
+		l1 = new JLabel("Beta ver.1.1");
 		
 		add(l0);
 		add(t0);
